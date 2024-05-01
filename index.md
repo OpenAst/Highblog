@@ -1,7 +1,3 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Welcome to my blog. I post interesting and amazing deep learning skills I'm learning here. 
+I write a out software engineering and blockchain. In a sense, this blog post will try to achieve to hell me 
+and others know how to integrate these technologies abd build something useful. 
